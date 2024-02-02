@@ -1,0 +1,27 @@
+:root {
+    --color1: #fbf3eb;
+    --color2: #331d18;
+    --color3: #89514e;
+    --color4: #847f68;
+    --color5: #9e9083;
+}
+
+.menu-item {
+    border: 1px solid var(--color4);
+    border-radius: 5px;
+}
+
+.menu-item h2 {
+    border-bottom: 1px solid var(--color4);
+    padding-bottom: 10px;
+}
+
+.menu-item p {
+    margin-bottom: 0.5rem;
+}
+
+.menu-item img {
+    max-width: 100%;
+    max-height: 200px; 
+    height: auto;
+}

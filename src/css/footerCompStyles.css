@@ -1,0 +1,16 @@
+:root {
+    --color1: #fbf3eb;
+    --color2: #331d18;
+    --color3: #89514e;
+    --color4: #847f68;
+    --color5: #9e9083;
+}
+
+
+
+footer {
+    position: relative;
+    bottom: 0;
+    height: 4rem;
+    width: 100%;
+}
