@@ -1,14 +1,14 @@
 .contenedorHorarios {
-    display: flex; 
-    justify-content: space-between; 
+  display: flex;
+  justify-content: space-between;
 }
 
 .botonReservacion {
-    background-color: var(--color3);
-    color: var(--color1);
+  background-color: var(--color3);
+  color: var(--color1);
 }
 
 .botonReservacion:hover {
-    background-color: var(--color2);
-    color: var(--color1);
+  background-color: var(--color2);
+  color: var(--color1);
 }

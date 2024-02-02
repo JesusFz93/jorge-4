@@ -1,15 +1,15 @@
 :root {
-    --color1: #fbf3eb;
-    --color2: #331d18;
-    --color3: #89514e;
-    --color4: #847f68;
-    --color5: #9e9083;
+  --color1: #fbf3eb;
+  --color2: #331d18;
+  --color3: #89514e;
+  --color4: #847f68;
+  --color5: #9e9083;
 }
 
 .LogoLosRosales {
-    width: 50px;
+  width: 50px;
 }
 
 .navbar .nav-item:hover {
-    background-color: var(--color3);
+  background-color: var(--color3);
 }
