@@ -1,5 +1,5 @@
 import "../css/home-page-styles.css";
-import imagen1 from "../../public/images/ImagenInicial.png";
+import imagen1 from "../assets/ImagenInicial.png";
 
 const HomePage = () => {
   return (
