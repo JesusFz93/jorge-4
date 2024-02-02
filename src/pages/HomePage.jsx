@@ -1,15 +1,12 @@
 import "../css/home-page-styles.css";
+import imagen1 from "../../public/images/ImagenInicial.png";
 
 const HomePage = () => {
   return (
     <>
       <div className="row text-center">
         <div className="col-12 col-lg-6 p-1">
-          <img
-            className="img-fluid"
-            src="../../public/images/ImagenInicial.png"
-            alt="ImagenComida"
-          />
+          <img className="img-fluid" src={imagen1} alt="ImagenComida" />
         </div>
         <div className="col-12 col-lg-6 text-center p-1 contenedorTitulo">
           <h1 className="tituloh1">LOS ROSALES</h1>
