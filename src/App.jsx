@@ -7,6 +7,8 @@ import { db } from "./backend/db";
 import { useEffect } from "react";
 import { addDoc, collection, doc, getDoc, getDocs } from "firebase/firestore";
 
+import "./css/HomePageStyles.css";
+
 function App() {
   return (
     <>

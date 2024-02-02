@@ -1,5 +1,3 @@
-import "./HomePageStyles.css";
-
 const HomePage = () => {
   return (
     <>

@@ -6,7 +6,7 @@ import {
 } from "react-router-dom";
 
 import HeaderComp from "../components/HeaderComp";
-import HomePage from "../pages/home";
+import HomePage from "../pages/HomePage.jsx";
 import MenuPage from "../pages/MenuPage";
 import SobreNosotrosPage from "../pages/SobreNosotrosPage";
 import ReservacionesPage from "../pages/ReservacionesPage.jsx";
